@@ -96,25 +96,25 @@
 
 ## Challenge 3.1
 
-  Suppose you won't have a wifi connection later on and you need to work on the
-  project in that time period.
-  How can you download the repo from Github to your local machine?
+  	Suppose you won't have a wifi connection later on and you need to work on the
+  	project in that time period.
+  	How can you download the repo from Github to your local machine?
 
 ## Challenge 3.2
 
-  You've finished working with the project locally and it's working as intended.
-  Now you need to upload these files back to your git repository.
-  How'll you upload these files?
+  	You've finished working with the project locally and it's working as intended.
+  	Now you need to upload these files back to your git repository.
+  	How'll you upload these files?
 
 ## Challenge 3.3
 
-  Imagine you're more efficient when working on your local machine instead of
-  using the Github web app and want a way to directly commit and push files on
-  your online repo, like a clone!
-  How would you clone your project onto your local machine?
-  What types of cloning are available?
+  	Imagine you're more efficient when working on your local machine instead of
+  	using the Github web app and want a way to directly commit and push files on
+  	your online repo, like a clone!
+  	How would you clone your project onto your local machine?
+  	What types of cloning are available?
 
 ## Challenge 3.4
 
-  Now that you know how what cloning is.
-  Clone your repo using http protocol onto your local machine.
+  	Now that you know how what cloning is.
+  	Clone your repo using http protocol onto your local machine.
